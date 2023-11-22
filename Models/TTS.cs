@@ -17,7 +17,7 @@ namespace TwitchTTS.Models
     }
     public class TTS
     {
-        public TTS(string token = "a2fm797ys6pas4gl16zj0kxpajh73y", string app = "d4jinxedtts", string canal = "d4jinxed")
+        public TTS(string token = "", string app = "", string canal = "")
         {
             Canal = canal;
             Token = token;
