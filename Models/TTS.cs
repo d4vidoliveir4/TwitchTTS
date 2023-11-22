@@ -17,15 +17,13 @@ namespace TwitchTTS.Models
     }
     public class TTS
     {
-        public TTS(string token = "", string app = "", string canal = "")
+        public TTS()
         {
-            Canal = canal;
-            Token = token;
-            BotName = app;
+            BotName = "d4jinxedtts";
         }
         public decimal Rate { get; set; }
         public decimal Pitch { get; set; }
-        public string Resgate => "c3e2104a-ae41-4772-b44d-12242942b76a";
+        public string Resgate => "";
         public string BotName { get; set; }
         public string Token { get; set; }
         public string Canal { get; set; }

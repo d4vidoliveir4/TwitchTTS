@@ -14,9 +14,14 @@ namespace PersonaTTS.Controllers
             _logger = logger;
         }
 
-        public IActionResult Index(string app, string token, string canal)
+        public IActionResult Index()
         {            
-            return View(new TTS(token,app,canal));
+            return View(new TTS());
+        }
+        
+        public IActionResult TTS()
+        {            
+            return View(new TTS());
         }
 
         public IActionResult Privacy()

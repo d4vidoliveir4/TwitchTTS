@@ -39,3 +39,4 @@ C:\Users\davio\Desktop\TwitchTTS\bin\Debug\netcoreapp3.1\TwitchTTS.Views.pdb
 C:\Users\davio\Desktop\TwitchTTS\obj\Debug\netcoreapp3.1\TwitchTTS.Views.pdb
 C:\Users\davio\Desktop\TwitchTTS\obj\Debug\netcoreapp3.1\TwitchTTS.genruntimeconfig.cache
 C:\Users\davio\Desktop\TwitchTTS\obj\Debug\netcoreapp3.1\TwitchTTS.csproj.CopyComplete
+C:\Users\davio\Desktop\TwitchTTS\obj\Debug\netcoreapp3.1\Razor\Views\Home\TTS.cshtml.g.cs
